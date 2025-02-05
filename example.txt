@@ -1,2 +1,1 @@
-Initial file content
-Edited the file on remote server !
+this is g1 branch
